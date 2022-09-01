@@ -2,3 +2,5 @@
 Terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/4.28.0/windows_386/terraform-provider-aws_v4.28.0_x5.exe
 Terraform/.terraform.lock.hcl
 Terraform/.terraform/modules/modules.json
+Terraform/terraform.tfstate
+Terraform/terraform.tfstate.backup

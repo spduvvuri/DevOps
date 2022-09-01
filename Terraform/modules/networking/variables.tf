@@ -22,8 +22,8 @@ variable "ipv6_cidr_block" {
   default     = "::/0"
 }
 
-variable "default_route_cidr_block" {
-  description = "default route cidr block"
+variable "open_to_all_cidr_block" {
+  description = "0.0.0.0/0 indicates - Any address can access. Open to all"
   type        = string
-  default     = "::/0"
+  default     = "0.0.0.0/0"
 }
